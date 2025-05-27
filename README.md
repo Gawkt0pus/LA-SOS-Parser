@@ -1,6 +1,6 @@
 # Louisiana SOS Parser
 
-Parses publicly available business registration data from the Louisiana Secretary of State (SOS) into a structured CSV format.
+Parses publicly available business registration data from the [Louisiana Secretary of State (SOS) New Corporation Newsletters](https://www.sos.la.gov/BusinessServices/SearchForLouisianaBusinessFilings/ViewFilingNewsletters/Pages/default.aspx) into a structured CSV format.
 
 ## Features
 
