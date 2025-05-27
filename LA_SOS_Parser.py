@@ -1,8 +1,8 @@
 import re
 import csv
 
-input_file = r"C:\Scripting\Louisiana SOS Parser\NewCorp_20150106.txt"
-output_file = r"NewCorp_20150106.csv"
+input_file = r"file_path.txt"
+output_file = r"file_path.csv"
 
 with open(input_file, "r", encoding="utf-8") as f:
     lines = f.readlines()
